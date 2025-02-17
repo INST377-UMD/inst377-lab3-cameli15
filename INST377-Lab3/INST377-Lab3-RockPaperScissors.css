@@ -1,0 +1,30 @@
+#bar {
+    text-align: center;
+    color:whitesmoke;
+    background-color: #87AE73;
+    padding: 5px;
+    margin: 5px;
+}
+
+#main-nav {
+    background-color: #22311d;
+    padding: 2px;
+}
+
+#main-nav ul li {
+    list-style-type: none;
+    padding: 5px;
+    display: inline-block;
+    color: lightblue;
+}
+
+#main-nav a {
+    text-decoration: none;
+    color: lightblue;
+    display: block;
+}
+
+#main-nav li a:hover {
+    background-color: darkseagreen;
+    color:darkblue; 
+}

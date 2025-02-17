@@ -4,3 +4,5 @@
 # Name: Cinthia Contreras
 
 # Comments: 
+
+- I wasn't sure how to make it so that the hover effect would cover the entire height of th navigation bar and not just around the text. Tried to look it up and I couldn't find a fix that I fully understoood.
