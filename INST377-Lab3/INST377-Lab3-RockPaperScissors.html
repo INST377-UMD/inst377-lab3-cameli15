@@ -1,0 +1,67 @@
+<html>
+  <head>
+    <title>Lab 3 - Rock Paper Scissors</title>
+    <link rel="stylesheet" href="INST377-Lab3-RockPaperScissors.css" />
+  </head>
+
+  <body>
+    <!-- Header Section-->
+    <header id="bar">
+      <h1>Lab 3 - Rock Paper Scissors</h1>
+    </header>
+
+    <!-- Nav Section-->
+    <nav id="main-nav">
+      <ul>
+        <li><a href="https://www.testudo.umd.edu/" target="_blank">Testudo</a></li>
+        <li><a href="https://www.google.com/" target="_blank">Google</a></li>
+        <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Surprise Me</a></li>
+      </ul>
+    </nav>
+
+    <!-- Body: Main Content -->
+    <div class="main-container">
+      <div class="content-area">
+        <div class="content-box">
+          <h1>Fill this out to play!</h1>
+          <form>
+            <label for="name">Name:</label>
+            <input type="text" id="name" required />
+
+            <br />
+            <br />
+
+            <label for="game">Choose your move:</label>
+            <select id="game">
+              <option hidden disabled selected>-- Choose Wisely --</option>
+              <option value="rock">Rock</option>
+              <option value="paper">Paper</option>
+              <option value="scissors">Scissors</option>
+            </select>
+
+            <input type="submit" value="Submit" />
+          </form>
+        </div>
+      </div>
+
+      <!-- Body: Side Bar-->
+      <aside id="rules">
+        <h1><u>Rules:</u></h1>
+        <h1>
+          <em>You <u>must</u> choose Rock, Paper or Scissors</em>
+        </h1>
+        <h3>The combos are as follows:</h3>
+        <ul>
+          <li><em>Rock</em> beats <em>Scissors</em></li>
+          <li><em>Scissors</em> beats <em>Paper</em></li>
+          <li><em>Paper</em> beats <em>Rock</em></li>
+        </ul>
+      </aside>
+    </div>
+
+    <!-- Footer Section -->
+    <footer id="bar">
+      <p>This is my footer.</p>
+    </footer>
+  </body>
+</html>
