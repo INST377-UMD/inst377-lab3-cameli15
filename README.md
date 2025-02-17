@@ -5,4 +5,6 @@
 
 # Comments: 
 
-- I wasn't sure how to make it so that the hover effect would cover the entire height of th navigation bar and not just around the text. Tried to look it up and I couldn't find a fix that I fully understoood.
+- I wasn't sure how to make it so that the hover effect would cover the entire height of the navigation bar and not just around the text. Tried to look it up and I couldn't find a fix that I fully understoood.
+
+- I've been having a lot of fun with this class and tend to get carried away with some extra details in my code. I hope it isn't a problem!
